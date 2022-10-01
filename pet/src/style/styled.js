@@ -8,7 +8,6 @@ export const DivLista = styled.div`
     justify-content: space-around;
 `
 
-//CRIANDO UM MÓDULO
 export const DivTarefa = styled.div`
     border : 2px solid #333;
     box-shadow : 5px 5px 5px #003f69;
